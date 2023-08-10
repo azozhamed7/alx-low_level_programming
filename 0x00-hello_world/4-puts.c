@@ -1,14 +1,11 @@
 #include <stdio.h>
-/*
- * main  - ther is no dis
+/**
+ * main - Entry point
  *
- * Description: useing puts to print
- *
- * return = it will return zero
- *
+ * Return: always 0 ( success)
  */
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
