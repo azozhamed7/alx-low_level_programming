@@ -1,6 +1,8 @@
 #include <stdio.h>
 /*
- * main (void) - ther is no dis
+ * main  - ther is no dis
+ *
+ * Description: useing puts to print
  *
  * return = it will return zero
  *
