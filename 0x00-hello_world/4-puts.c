@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main (void) - ther is no dis
+ * description void  - ther is no dis
  *
  * return = it will return zero
  *
