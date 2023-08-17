@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * positive_ornegative - zero is zero
- *
- * Return: (0)
+ * main.h - include
+ *@positive_ornegative:  zero is zero
+ *@i: is zero
+ *Return: (0)
  */
 void positive_or_negative(int i)
 {
